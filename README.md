@@ -75,3 +75,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 ## Activity 1
 
 ![Alt text](./screenshots/Activity%201.png)
+
+## Activity 2
+### Home Page
+![Alt text](./screenshots/A2%20Home%20Page.png)
+
+### Repo
+![Alt text](./screenshots/A2%20Repo.png)
