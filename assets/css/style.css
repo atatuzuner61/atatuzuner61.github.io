@@ -6,12 +6,12 @@
   height: auto;
   overflow: hidden;
   /* display: inline-block; */
-  
-  
+
+
   /* background-size: cover;  */
-  margin: -31px; 
+  margin: -31px;
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(0, 77, 64, 0.4);
   border-radius: 50% !important;
 }
 
@@ -24,7 +24,7 @@
   /* visibility: hidden; */
   position: fixed;
   /* margin-inline-end: auto;  */
-  bottom: 0; 
+  bottom: 0;
   right: 0;
 }
 
@@ -355,6 +355,10 @@ h3 {
   padding: 0 10px;
 }
 
+#intro.section .baby-blue {
+  padding: 0 10px;
+}
+
 .overlay {
   background-color: rgba(0, 0, 0, 0.4);
   height: 100%;
@@ -552,6 +556,10 @@ small {
   color: #008073 !important;
 }
 
+.baby-blue-text {
+  color: #89CFF0 !important;
+}
+
 /* .teal-text {
   color: #0b5e86 !important;
 } */
@@ -560,6 +568,10 @@ small {
 
 .teal {
   background-color: #008073 !important;
+}
+
+.baby-blue {
+  color: #89CFF0 !important;
 }
 
 /* .teal {
