@@ -355,10 +355,6 @@ h3 {
   padding: 0 10px;
 }
 
-#intro.section .baby-blue {
-  padding: 0 10px;
-}
-
 .overlay {
   background-color: rgba(0, 0, 0, 0.4);
   height: 100%;
@@ -560,6 +556,10 @@ small {
   color: #89CFF0 !important;
 }
 
+.bright-blue-text {
+  color: #0096FF !important;
+}
+
 /* .teal-text {
   color: #0b5e86 !important;
 } */
@@ -572,6 +572,10 @@ small {
 
 .baby-blue {
   color: #89CFF0 !important;
+}
+
+.bright-blue {
+  color: #0096FF !important;
 }
 
 /* .teal {
