@@ -74,7 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 # Lab 2 Activities
 ## Activity 1
 
-![Alt text](./screenshots/Activity%201.png)
+![Alt text](./screenshots/A1.png)
 
 ## Activity 2
 ### Home Page
